@@ -141,7 +141,7 @@ pycups==1.9.73
 pydantic==1.8.2
 pyee==8.1.0
 PyGithub==1.55
-Pygments==2.9.0
+Pygments==2.15.0
 PyGObject==3.36.0
 pygraphviz==1.7
 PyJWT==2.1.0
